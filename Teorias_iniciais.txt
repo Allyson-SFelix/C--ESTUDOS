@@ -1,0 +1,14 @@
+Compilação e Interpretação
+
+-> Pré-compliadas + maquina virtual (Multiplataforma - M.V por S.O)
+	- Código feito
+	- Pré-compilado (gera byteCode - CIL)
+	- Executa na maquina virtual específica para cada S.O
+
+
+Estrutura de um C#
+
+-> Classes
+	- Namespace(Agrupamento de classes relacionadas)
+	- Assembly(agrupamento de classes relacionadas de forma física)
+	- Aplicação( agrupamento de projcts/assemblys relacionados)

@@ -1,0 +1,14 @@
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\bin\Debug\net8.0\ProjetoAulaInicial.exe
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\bin\Debug\net8.0\ProjetoAulaInicial.deps.json
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\bin\Debug\net8.0\ProjetoAulaInicial.runtimeconfig.json
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\bin\Debug\net8.0\ProjetoAulaInicial.dll
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\bin\Debug\net8.0\ProjetoAulaInicial.pdb
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\obj\Debug\net8.0\ProjetoAulaInicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\obj\Debug\net8.0\ProjetoAulaInicial.AssemblyInfoInputs.cache
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\obj\Debug\net8.0\ProjetoAulaInicial.AssemblyInfo.cs
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\obj\Debug\net8.0\ProjetoAulaInicial.csproj.CoreCompileInputs.cache
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\obj\Debug\net8.0\ProjetoAulaInicial.dll
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\obj\Debug\net8.0\refint\ProjetoAulaInicial.dll
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\obj\Debug\net8.0\ProjetoAulaInicial.pdb
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\obj\Debug\net8.0\ProjetoAulaInicial.genruntimeconfig.cache
+C:\Users\allys\OneDrive\Área de Trabalho\C_sharp\projetos\ProjetoAulaInicial\ProjetoAulaInicial\obj\Debug\net8.0\ref\ProjetoAulaInicial.dll
