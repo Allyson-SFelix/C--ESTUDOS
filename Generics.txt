@@ -1,0 +1,30 @@
+Generics
+
+public class Tabuada<T>{ //serve para tipos existentes no c#
+
+	public T _valor;
+
+	public void AddValor(T valorEntrada){]
+		_valor+=valorEntrada;
+	}
+}
+
+
+Tabuada<string> nomeTabuada= new Tabuada<string>();
+Tabuada<int> nomeTabuada = new Tabuada<int>();
+
+
+public class Contas<T> where T:class{ // nesse caso pode ser intenciada com tipo de class criada por mim
+	///
+}
+
+Contas<Pessoas> contaPessoa= new Contas<Pessoas>();
+
+
+PARA CONSEGUIR COMPARAR NO METODO QUANDO FOR GENERIC:
+public T Nome<T>(T entrada) T: IComparable{ //ou : ação realizavel
+	if(x1.CompareTo(entrada)>0) // se x1 é maior que entrada;
+}
+
+
+PARA POSSIBILITAR ESPECIFICAR OQ COMPARARÁ QUANDO FOR USAR UMA CLASSE COMPARANDO COM ELA USA IComparable,VERIFICAR ANTES SE SÃO DA MESMA CLASSE E cria um método com ToComparable e return a comparação (Preco(nomeMetodo).ToComparable(other Preco(nomeMetodo));

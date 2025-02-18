@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\allys\\OneDrive\\Área de Trabalho\\C_sharp\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\ProjetoAulaInicial.csproj",
+      "projectUniqueName": "C:\\Users\\allys\\OneDrive\\Área de Trabalho\\C_sharp_\\C--ESTUDOS\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\ProjetoAulaInicial.csproj",
       "projectName": "ProjetoAulaInicial",
-      "projectPath": "C:\\Users\\allys\\OneDrive\\Área de Trabalho\\C_sharp\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\ProjetoAulaInicial.csproj",
+      "projectPath": "C:\\Users\\allys\\OneDrive\\Área de Trabalho\\C_sharp_\\C--ESTUDOS\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\ProjetoAulaInicial.csproj",
       "packagesPath": "C:\\Users\\allys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\allys\\OneDrive\\Área de Trabalho\\C_sharp\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\obj\\",
+      "outputPath": "C:\\Users\\allys\\OneDrive\\Área de Trabalho\\C_sharp_\\C--ESTUDOS\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

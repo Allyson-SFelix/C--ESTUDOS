@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\allys\\OneDrive\\\u00C1rea de Trabalho\\C_sharp\\projetos\\ProjetoAulaInicial\\",
+  "WorkspaceRootPath": "C:\\Users\\allys\\OneDrive\\\u00C1rea de Trabalho\\C_sharp_\\C--ESTUDOS\\projetos\\ProjetoAulaInicial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{407663C9-7A36-4CDA-8B7E-0E2DC39610CF}|ProjetoAulaInicial\\ProjetoAulaInicial.csproj|c:\\users\\allys\\onedrive\\\u00E1rea de trabalho\\c_sharp\\projetos\\projetoaulainicial\\projetoaulainicial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{407663C9-7A36-4CDA-8B7E-0E2DC39610CF}|ProjetoAulaInicial\\ProjetoAulaInicial.csproj|c:\\users\\allys\\onedrive\\\u00E1rea de trabalho\\c_sharp_\\c--estudos\\projetos\\projetoaulainicial\\projetoaulainicial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{407663C9-7A36-4CDA-8B7E-0E2DC39610CF}|ProjetoAulaInicial\\ProjetoAulaInicial.csproj|solutionrelative:projetoaulainicial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407663C9-7A36-4CDA-8B7E-0E2DC39610CF}|ProjetoAulaInicial\\ProjetoAulaInicial.csproj|c:\\users\\allys\\onedrive\\\u00E1rea de trabalho\\c_sharp_\\c--estudos\\projetos\\projetoaulainicial\\projetoaulainicial\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407663C9-7A36-4CDA-8B7E-0E2DC39610CF}|ProjetoAulaInicial\\ProjetoAulaInicial.csproj|solutionrelative:projetoaulainicial\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\allys\\OneDrive\\\u00C1rea de Trabalho\\C_sharp\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\allys\\OneDrive\\\u00C1rea de Trabalho\\C_sharp_\\C--ESTUDOS\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoAulaInicial\\Program.cs",
-              "ToolTip": "C:\\Users\\allys\\OneDrive\\\u00C1rea de Trabalho\\C_sharp\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\Program.cs",
+              "ToolTip": "C:\\Users\\allys\\OneDrive\\\u00C1rea de Trabalho\\C_sharp_\\C--ESTUDOS\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\Program.cs",
               "RelativeToolTip": "ProjetoAulaInicial\\Program.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGcAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T17:13:57.653Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\allys\\OneDrive\\\u00C1rea de Trabalho\\C_sharp_\\C--ESTUDOS\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\Class1.cs",
+              "RelativeDocumentMoniker": "ProjetoAulaInicial\\Class1.cs",
+              "ToolTip": "C:\\Users\\allys\\OneDrive\\\u00C1rea de Trabalho\\C_sharp_\\C--ESTUDOS\\projetos\\ProjetoAulaInicial\\ProjetoAulaInicial\\Class1.cs",
+              "RelativeToolTip": "ProjetoAulaInicial\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAATnc/UL8XwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:35:32.771Z"
             }
           ]
         }

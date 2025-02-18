@@ -1,0 +1,35 @@
+Ponteiroem C_sharp
+Classe p1,p2 -> cria o espaço na memoria ao declarar esperando receber algum endereço
+p1= new Classe("nome",12)  -> p1 tem o endereço para essa classe instanciada
+p2=p1 (recebe o endereço que tem em p1, sendo agora p2 apontando para a classe instanciada também)
+
+
+Desalocacao de memoria
+
+garbage collector -> desaloca os que não estão sendo utilizados
+quando ocorre perca de referencia, mudança de um ponteiro para um lugar e passa a apontar para outro, sendo no futuro desalocada sozinho
+
+desalocaçao por escopo -> desalocação por linha de código, tipo variável criada em if ou em linhas de códigos semelhantes sendo desalosalocado sozinho, ou quando é passado na função criando uma var e depois retornando ela e depois é desalocada sozinho
+
+
+Structs : são caixas de valores que são armazenados na variável e não armazenado endereços
+ { double x1,x2
+x1=12
+x2=x1 (armazena o valor 12 no x2)
+ }
+
+
+struct Point{ \\ criação de um novo tipo de dado
+	public double X;
+
+	public override string ToString(){
+		return "("+X+")";
+	} 
+}
+
+Point p; //inicializei p para ter espaço
+p.X = 10;
+// ou 
+Point a = new Point(); 
+Console.WriteLine(p); //
+

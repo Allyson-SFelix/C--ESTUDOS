@@ -1,0 +1,19 @@
+Web Api C#
+(asp.net core)
+
+Uso do protocolo Http
+	Post => envia
+	Put => atualiza todos os dados especificos
+	Get => pega algo
+	Delete => deleta
+	Patch => atualiza alguns registros
+
+Códigos de Respostas: cada envio ou recebimento do servidor há o código de respostas do servidor sobre a ação ocorrida
+	Respostas de informação (100-199)
+	Respostas de sucesso ( 200 - 299)
+	Redirecionamento (300-399)
+	Erro do cliente ( 400 - 499)
+	Erro do servidor (500-599)
+
+
+Quando ocorre a comunicação com o servidor é por meio do json

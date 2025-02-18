@@ -1,0 +1,36 @@
+DataTime -> serve para pegar horários e data
+	DataTime dia = new DataTime()
+		DataTime.Parse() -> dentro do ReadLine
+		        .TryParse(entrada, DateTime variavel) tenta pegar se return true ta no formato certo, caso false não armazena
+
+TimeSpan -> serve para pegar duração
+
+
+IComparable<T> -> interface para comparar objetos
+	CompareTo( T other) -> único método
+	-1 -> menor
+	0 -> igual
+	1 -> maior
+
+	implemento para fazer a comparação de objetos da minha forma,pegando o que quero para ser comparado
+	public int CompareTo(Produto other){
+        if (other == null) return 1; // Se outro for null, este objeto é nullo
+
+        return Preco.CompareTo(other.Preco); // Compara os preços e retorna se se é maior ou menor ou igual
+    }
+
+
+Equals() -> compara dois objetos
+	De forma simples sem alterar compara de acordo com o armazenamento de memória
+	override bool Equals(objetc obj){
+	// verifica se é do mesmo objeto
+	// return a comparação que quero realizar
+}
+obj1.Equals(obj2)
+
+
+GetHashCode() -> retorna um numero inteiro que representará o objeto
+	sem mudar ele gera de acordo com o objeto na memoria
+	override int GetHashCode(){
+		retornar ação de geração que quero atributo.GetHashCode()
+	}
